@@ -1,0 +1,28 @@
+#include "mbed.h"
+
+#define TREX_ADDR     (0x0E)  // On definit l'adresse I2C de la carte T-REX     Adresse de Base 0x07 mais decalage à réaliser donc 0x0F
+#define TREX_SBW      (0x0F)  // On definit le premier bit qu'on doit envoyé par i2C
+#define TREX_SBR      (0xF0)  // On définit le premier bit qu'on doit lire en i2C
+
+I2C i2c(D5, D7); // on definit les pins de la cate mbed ou s'effectuera la connection i2C
+
+DigitalOut myled(LED1); // on configure la LED1 en sortie
+
+Serial pc(USBTX, USBRX); // on configue la connexion usb série avec l'ordinateur
+
+int main() 
+{
+    char data_write[32]={0x0F,0x02,0xFF,0x01,0x00,0xFF,0x01,0x00,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x00,0x00,0x00,0x00,0x32,0x00,0x32,0x02,0x23,0x07,0x00}; // RECULER                                                      char data_read[32];    
+    char data_read[32];
+    i2c.frequency(100000);
+    while(1)
+    {     
+        i2c.write(TREX_ADDR, data_write, 27); 
+        wait(0.5);  
+        i2c.read(TREX_ADDR, data_read, 24, 0); //on recupere dans le tableau data_read ce qui nous est envoyé en i2C par la carte t-rex
+        wait(0.5);  
+        
+    }
+}  
+
+
