@@ -12,17 +12,15 @@ Serial pc(USBTX, USBRX); // on configue la connexion usb série avec l'ordinateur
 
 int main() 
 {
-    char data_write[32]={0x0F,0x02,0xFF,0x01,0x00,0xFF,0x01,0x00,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x00,0x00,0x00,0x00,0x32,0x00,0x32,0x02,0x23,0x07,0x00}; // RECULER                                                      char data_read[32];    
-    char data_read[32];
+    char data_write[32]={0x0F,0x02,0x00,0xFF,0x00,0x00,0xFF,0x00,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x05,0xDC,0x00,0x00,0x00,0x00,0x32,0x00,0x32,0x02,0x23,0x07,0x00}; // RECULER                                                      
+    char data_read[32];    
     i2c.frequency(100000);
     while(1)
     {     
         i2c.write(TREX_ADDR, data_write, 27); 
         wait(0.5);  
-        i2c.read(TREX_ADDR, data_read, 24, 0); //on recupere dans le tableau data_read ce qui nous est envoyé en i2C par la carte t-rex
+        i2c.read(TREX_ADDR); //on recupere dans le tableau data_read ce qui nous est envoyé en i2C par la carte t-rex
         wait(0.5);  
         
     }
 }  
-
-
