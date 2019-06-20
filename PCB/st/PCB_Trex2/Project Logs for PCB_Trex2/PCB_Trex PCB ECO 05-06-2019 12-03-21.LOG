@@ -1,0 +1,14 @@
+Added Component: Designator=JP2(entrelec 2 PTS)
+Added Component: Designator=U1(TSR-1)
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U1-1
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=VIN Pin=P1-24
+Added Pin To Net: NetName=VIN Pin=U1-3
+Added Net: Name=VIN
+Added Member To Class: ClassName=Trex Member=Component JP1 Connecteur Autocom 4pts
+Added Member To Class: ClassName=Trex Member=Component JP2 Connecteur alim 2 pts
+Added Member To Class: ClassName=Trex Member=Component U1 TSR 1-2450
+Added Room: Name=Trex

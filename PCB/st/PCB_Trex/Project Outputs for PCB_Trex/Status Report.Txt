@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Trex.PrjPcb]
+   Generated File[PCB_Trex.TXT]
+   Generated File[PCB_Trex.LDP]
+   Generated File[PCB_Trex.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:59:36 On 03/06/2019
