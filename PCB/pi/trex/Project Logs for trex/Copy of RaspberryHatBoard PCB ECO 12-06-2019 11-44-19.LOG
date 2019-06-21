@@ -1,0 +1,34 @@
+Added Component: Designator=J1(BNC)
+Added Component: Designator=J2(BNC)
+Added Component: Designator=JP1(Autocom HE14 - 4 - Coudé)
+Added Component: Designator=JP2(Conn ZIF 20pts)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=SCL Pin=J1-1
+Added Pin To Net: NetName=SCL Pin=JP1-3
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J2-1
+Added Pin To Net: NetName=SDA Pin=JP1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component J1 ES
+Added Member To Class: ClassName=Sheet1 Member=Component J2 ES
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Connecteur Autocom 4pts
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Conn ZIF
+Added Member To Class: ClassName=Sheet1 Member=Component R1 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 4.7K
+Added Room: Name=Sheet1

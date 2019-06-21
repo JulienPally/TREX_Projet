@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SDA Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=SCL Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Change Component DesignItemId : Designator=J1 Old DesignItemId=COAX-F New DesignItemId=BNC
+Change Component DesignItemId : Designator=J2 Old DesignItemId=COAX-F New DesignItemId=BNC
+Change Component Footprint: Designator=J1 Old Footprint=MCX5.08-H5 New Footprint=BNC
+Change Component Footprint: Designator=J2 Old Footprint=MCX5.08-H5 New Footprint=BNC
+Change Component Comment : Designator=J1 Old Comment=COAX-F New Comment=ES
+Change Component Comment : Designator=J2 Old Comment=COAX-F New Comment=ES
+Added Pin To Net: NetName=SCL Pin=J1-1
+Added Pin To Net: NetName=SDA Pin=J2-1
+Added Room: Name=Trex

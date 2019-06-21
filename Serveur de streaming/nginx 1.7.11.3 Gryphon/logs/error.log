@@ -1,0 +1,144 @@
+2019/05/15 11:18:10 [notice] 2952#4132: sockinit() attempting to access sockapi
+2019/05/15 11:18:10 [notice] 2952#4132: Access to sockapi succeded!
+2019/05/15 11:18:10 [notice] 2952#4132: using sockapi from "4;68;"
+2019/05/15 11:18:10 [notice] 3572#10904: sockinit() attempting to access sockapi
+2019/05/15 11:18:10 [notice] 3572#10904: Access to sockapi succeded!
+2019/05/15 11:18:10 [notice] 3572#10904: using sockapi from "4;8;"
+2019/05/15 11:20:32 [error] 2952#6184: *1 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.100", referrer: "http://192.168.1.100/"
+2019/05/15 11:26:46 [error] 3572#6692: *9 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15100)), client: 192.168.1.100, server: localhost, request: "GET /live HTTP/1.1", host: "192.168.1.100"
+2019/05/15 11:46:57 [error] 2952#6184: *45 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "HEAD /live HTTP/1.1", host: "192.168.1.100"
+2019/05/15 11:46:57 [error] 2952#6184: *45 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "HEAD /live HTTP/1.1", host: "192.168.1.100"
+2019/05/15 12:19:08 [notice] 11100#4272: sockinit() attempting to access sockapi
+2019/05/15 12:19:08 [notice] 11100#4272: Access to sockapi succeded!
+2019/05/15 12:19:08 [notice] 11100#4272: using sockapi from "4;8;"
+2019/05/15 12:19:13 [notice] 10836#2264: sockinit() attempting to access sockapi
+2019/05/15 12:19:13 [notice] 10836#2264: Access to sockapi succeded!
+2019/05/15 12:19:13 [notice] 10836#2264: using sockapi from "4;8;"
+2019/05/15 12:19:14 [notice] 7024#3620: sockinit() attempting to access sockapi
+2019/05/15 12:19:14 [notice] 7024#3620: Access to sockapi succeded!
+2019/05/15 12:19:14 [notice] 7024#3620: using sockapi from "4;8;"
+2019/05/15 12:20:11 [notice] 3336#8060: sockinit() attempting to access sockapi
+2019/05/15 12:20:11 [notice] 3336#8060: Access to sockapi succeded!
+2019/05/15 12:20:11 [notice] 3336#8060: using sockapi from "4;88;"
+2019/05/15 12:20:11 [notice] 4908#11212: sockinit() attempting to access sockapi
+2019/05/15 12:20:11 [notice] 4908#11212: Access to sockapi succeded!
+2019/05/15 12:20:11 [notice] 4908#11212: using sockapi from "4;8;"
+2019/05/15 12:30:05 [emerg] 1968#7208: invalid number of arguments in "allow" directive in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:188
+2019/05/15 12:46:29 [emerg] 6348#6696: invalid number of arguments in "allow" directive in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:190
+2019/05/16 13:35:22 [notice] 7484#2480: sockinit() attempting to access sockapi
+2019/05/16 13:35:22 [notice] 7484#2480: Access to sockapi succeded!
+2019/05/16 13:35:22 [notice] 7484#2480: using sockapi from "4;76;"
+2019/05/16 13:35:22 [notice] 10832#7212: sockinit() attempting to access sockapi
+2019/05/16 13:35:22 [notice] 10832#7212: Access to sockapi succeded!
+2019/05/16 13:35:22 [notice] 10832#7212: using sockapi from "4;8;"
+2019/05/16 13:38:28 [error] 7484#9096: *1 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.100", referrer: "http://192.168.1.100/"
+2019/05/16 14:02:58 [error] 10832#10936: *5 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/liv" failed (2: FormatMessage() error:(15100)), client: 192.168.1.100, server: localhost, request: "HEAD /liv HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:02:58 [error] 10832#10936: *5 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/liv" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "HEAD /liv HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:02:59 [error] 10832#10936: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "HEAD /live HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:02:59 [error] 10832#10936: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "HEAD /live HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:05:33 [error] 10832#10936: *9 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/live" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /live HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:14:50 [notice] 5568#712: sockinit() attempting to access sockapi
+2019/05/16 14:14:50 [notice] 5568#712: Access to sockapi succeded!
+2019/05/16 14:14:50 [notice] 5568#712: using sockapi from "4;8;"
+2019/05/16 14:14:50 [emerg] 5568#712: duplicate location "/50x.html" in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:154
+2019/05/16 14:14:50 [alert] 4984#10512: worker process 5568 exited with code 1
+2019/05/16 14:14:50 [alert] 4984#10512: could not respawn worker
+2019/05/16 14:14:54 [notice] 4580#6516: sockinit() attempting to access sockapi
+2019/05/16 14:14:54 [notice] 4580#6516: Access to sockapi succeded!
+2019/05/16 14:14:54 [notice] 4580#6516: using sockapi from "4;8;"
+2019/05/16 14:14:54 [emerg] 4580#6516: duplicate location "/50x.html" in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:154
+2019/05/16 14:14:54 [alert] 4984#10512: worker process 4580 exited with code 1
+2019/05/16 14:14:54 [alert] 4984#10512: could not respawn worker
+2019/05/16 14:15:07 [emerg] 992#4912: duplicate location "/50x.html" in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:154
+2019/05/16 14:15:24 [emerg] 2688#3276: duplicate location "/50x.html" in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:154
+2019/05/16 14:15:59 [emerg] 7644#3468: duplicate location "/50x.html" in C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/conf/nginx.conf:154
+2019/05/16 14:16:26 [notice] 9112#9040: sockinit() attempting to access sockapi
+2019/05/16 14:16:26 [notice] 9112#9040: Access to sockapi succeded!
+2019/05/16 14:16:26 [notice] 9112#9040: using sockapi from "4;76;"
+2019/05/16 14:16:26 [notice] 5952#3132: sockinit() attempting to access sockapi
+2019/05/16 14:16:26 [notice] 5952#3132: Access to sockapi succeded!
+2019/05/16 14:16:26 [notice] 5952#3132: using sockapi from "4;8;"
+2019/05/16 14:17:32 [error] 9112#8768: *2 CreateFile() "C:/usr/build/nginx-rtmp-module/stat.xsl" failed (3: FormatMessage() error:(15100)), client: 192.168.1.100, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.1.100", referrer: "http://192.168.1.100/stat"
+2019/05/16 14:17:46 [error] 9112#8768: *2 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:17:48 [error] 9112#8768: *2 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:18:21 [error] 9112#8768: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:18:21 [error] 9112#8768: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:18:22 [error] 9112#8768: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:18:22 [error] 9112#8768: *6 CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon/html/control" failed (2: FormatMessage() error:(15105)), client: 192.168.1.100, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.1.100"
+2019/05/16 14:22:30 [notice] 888#8468: sockinit() attempting to access sockapi
+2019/05/16 14:22:30 [notice] 888#8468: Access to sockapi succeded!
+2019/05/16 14:22:30 [notice] 888#8468: using sockapi from "4;8;"
+2019/05/16 14:22:31 [notice] 4228#9072: sockinit() attempting to access sockapi
+2019/05/16 14:22:31 [notice] 4228#9072: Access to sockapi succeded!
+2019/05/16 14:22:31 [notice] 4228#9072: using sockapi from "4;8;"
+2019/05/16 14:22:51 [notice] 496#6292: sockinit() attempting to access sockapi
+2019/05/16 14:22:51 [notice] 496#6292: Access to sockapi succeded!
+2019/05/16 14:22:51 [notice] 496#6292: using sockapi from "4;68;"
+2019/05/16 14:22:51 [notice] 4064#10732: sockinit() attempting to access sockapi
+2019/05/16 14:22:51 [notice] 4064#10732: Access to sockapi succeded!
+2019/05/16 14:22:51 [notice] 4064#10732: using sockapi from "4;8;"
+2019/05/17 08:28:23 [notice] 10300#2356: sockinit() attempting to access sockapi
+2019/05/17 08:28:23 [notice] 10300#2356: Access to sockapi succeded!
+2019/05/17 08:28:23 [notice] 10300#2356: using sockapi from "4;84;"
+2019/05/17 08:28:23 [notice] 7804#11344: sockinit() attempting to access sockapi
+2019/05/17 08:28:23 [notice] 7804#11344: Access to sockapi succeded!
+2019/05/17 08:28:23 [notice] 7804#11344: using sockapi from "4;8;"
+2019/06/04 08:55:31 [notice] 3516#2480: sockinit() attempting to access sockapi
+2019/06/04 08:55:31 [notice] 3516#2480: Access to sockapi succeded!
+2019/06/04 08:55:31 [notice] 3516#2480: using sockapi from "4;76;"
+2019/06/04 08:55:31 [notice] 2084#1764: sockinit() attempting to access sockapi
+2019/06/04 08:55:31 [notice] 2084#1764: Access to sockapi succeded!
+2019/06/04 08:55:31 [notice] 2084#1764: using sockapi from "4;8;"
+2019/06/04 09:50:33 [notice] 6288#16276: sockinit() attempting to access sockapi
+2019/06/04 09:50:33 [notice] 6288#16276: Access to sockapi succeded!
+2019/06/04 09:50:33 [notice] 6288#16276: using sockapi from "4;8;"
+2019/06/04 09:50:35 [notice] 8840#8600: sockinit() attempting to access sockapi
+2019/06/04 09:50:35 [notice] 8840#8600: Access to sockapi succeded!
+2019/06/04 09:50:35 [notice] 8840#8600: using sockapi from "4;8;"
+2019/06/04 09:51:02 [notice] 17212#16312: sockinit() attempting to access sockapi
+2019/06/04 09:51:02 [notice] 17212#16312: Access to sockapi succeded!
+2019/06/04 09:51:02 [notice] 17212#16312: using sockapi from "4;8;"
+2019/06/04 09:51:05 [notice] 13952#17032: sockinit() attempting to access sockapi
+2019/06/04 09:51:05 [notice] 13952#17032: Access to sockapi succeded!
+2019/06/04 09:51:05 [notice] 13952#17032: using sockapi from "4;8;"
+2019/06/04 09:51:07 [notice] 13988#6768: sockinit() attempting to access sockapi
+2019/06/04 09:51:07 [notice] 13988#6768: Access to sockapi succeded!
+2019/06/04 09:51:07 [notice] 13988#6768: using sockapi from "4;8;"
+2019/06/04 09:51:10 [notice] 10824#8268: sockinit() attempting to access sockapi
+2019/06/04 09:51:10 [notice] 10824#8268: Access to sockapi succeded!
+2019/06/04 09:51:10 [notice] 10824#8268: using sockapi from "4;8;"
+2019/06/04 09:51:17 [notice] 7804#12968: sockinit() attempting to access sockapi
+2019/06/04 09:51:17 [notice] 7804#12968: Access to sockapi succeded!
+2019/06/04 09:51:17 [notice] 7804#12968: using sockapi from "4;8;"
+2019/06/04 09:51:19 [notice] 17380#2212: sockinit() attempting to access sockapi
+2019/06/04 09:51:19 [notice] 17380#2212: Access to sockapi succeded!
+2019/06/04 09:51:19 [notice] 17380#2212: using sockapi from "4;8;"
+2019/06/04 09:51:21 [notice] 5760#5912: sockinit() attempting to access sockapi
+2019/06/04 09:51:21 [notice] 5760#5912: Access to sockapi succeded!
+2019/06/04 09:51:21 [notice] 5760#5912: using sockapi from "4;8;"
+2019/06/11 11:01:18 [notice] 9304#10828: sockinit() attempting to access sockapi
+2019/06/11 11:01:18 [notice] 9304#10828: Access to sockapi succeded!
+2019/06/11 11:01:18 [notice] 9304#10828: using sockapi from "4;76;"
+2019/06/11 11:01:18 [notice] 4800#12872: sockinit() attempting to access sockapi
+2019/06/11 11:01:18 [notice] 4800#12872: Access to sockapi succeded!
+2019/06/11 11:01:18 [notice] 4800#12872: using sockapi from "4;8;"
+2019/06/14 15:23:35 [notice] 11960#8724: sockinit() attempting to access sockapi
+2019/06/14 15:23:35 [notice] 11960#8724: Access to sockapi succeded!
+2019/06/14 15:23:35 [notice] 11960#8724: using sockapi from "4;76;"
+2019/06/14 15:23:35 [notice] 9756#6744: sockinit() attempting to access sockapi
+2019/06/14 15:23:35 [notice] 9756#6744: Access to sockapi succeded!
+2019/06/14 15:23:35 [notice] 9756#6744: using sockapi from "4;8;"
+2019/06/17 15:34:13 [notice] 1456#1336: sockinit() attempting to access sockapi
+2019/06/17 15:34:13 [notice] 1456#1336: Access to sockapi succeded!
+2019/06/17 15:34:13 [notice] 1456#1336: using sockapi from "4;76;"
+2019/06/17 15:34:14 [notice] 8380#8328: sockinit() attempting to access sockapi
+2019/06/17 15:34:14 [notice] 8380#8328: Access to sockapi succeded!
+2019/06/17 15:34:14 [notice] 8380#8328: using sockapi from "4;8;"
+2019/06/19 10:05:09 [notice] 5616#5476: sockinit() attempting to access sockapi
+2019/06/19 10:05:09 [notice] 5616#5476: Access to sockapi succeded!
+2019/06/19 10:05:09 [notice] 5616#5476: using sockapi from "4;76;"
+2019/06/19 10:05:09 [notice] 11136#11140: sockinit() attempting to access sockapi
+2019/06/19 10:05:09 [notice] 11136#11140: Access to sockapi succeded!
+2019/06/19 10:05:09 [notice] 11136#11140: using sockapi from "4;8;"
+2019/06/19 15:18:27 [error] 11136#1380: *76 live: already publishing, client: 192.168.1.104, server: 0.0.0.0:1935
+2019/06/19 15:18:37 [error] 11136#1380: *77 live: already publishing, client: 192.168.1.104, server: 0.0.0.0:1935

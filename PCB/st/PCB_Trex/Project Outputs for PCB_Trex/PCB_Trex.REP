@@ -1,0 +1,33 @@
+*************************************************************
+FileName = PCB_Trex.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_Trex.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_Trex.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D17
+*************************************************************
+

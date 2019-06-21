@@ -1,0 +1,9 @@
+Bill of Material for 
+On 22/05/2019 at 12:03:34
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 4.7K                AXIAL-0.4        2    R1, R2                       Resistor             
+ COAX-F              MCX5.08-H5       2    J1, J2                       RF Coaxial PCB Connector, MCX; Thru-Hole, Right-Angle Mount Socket, Blunt Post Terminal, 50 Ohm Impedance 
+ Header 19X2         HDR2X19          2    P1, P2                       Header, 19-Pin, Dual row 
+ Header 4            HDR1X4           1    P3                           Header, 4-Pin        

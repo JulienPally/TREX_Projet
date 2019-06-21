@@ -1,0 +1,24 @@
+Added Component: Designator=J1(BNC)
+Added Component: Designator=J2(BNC)
+Added Component: Designator=P1(HDR2X19)
+Added Component: Designator=P2(HDR2X19)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=J1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J2-1
+Added Net: Name=SDA
+Added Net: Name=VCC
+Added Class: Name=Trex
+Added Room: Name=Trex

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDA Pin=J1-1
+Removed Pin From Net: NetName=SCL Pin=J2-1
+Added Pin To Net: NetName=SCL_BACK Pin=J2-1
+Added Net: Name=SCL_BACK
+Added Pin To Net: NetName=SDA_BACK Pin=J1-1
+Added Net: Name=SDA_BACK

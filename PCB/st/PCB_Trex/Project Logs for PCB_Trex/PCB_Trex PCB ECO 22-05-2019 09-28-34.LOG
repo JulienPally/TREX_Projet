@@ -1,0 +1,38 @@
+Added Component: Designator=J1(MCX5.08-H5)
+Added Component: Designator=J2(MCX5.08-H5)
+Added Component: Designator=P1(HDR2X19)
+Added Component: Designator=P2(HDR2X19)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=J2-1
+Added Pin To Net: NetName=SCL Pin=P3-3
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J1-1
+Added Pin To Net: NetName=SDA Pin=P3-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=P1-16
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Class: Name=Trex
+Added Room: Name=Trex

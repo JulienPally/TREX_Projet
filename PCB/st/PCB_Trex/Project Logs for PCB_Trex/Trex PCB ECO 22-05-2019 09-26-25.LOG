@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=SCL Pin=P4-1
+Removed Pin From Net: NetName=SDA Pin=P4-3
+Removed Member From Class: ClassName=Trex Member=P4
+Removed Member From Class: ClassName=Trex Member=P5
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 6 New DesignItemId=Header 19X2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 8 New DesignItemId=Header 19X2
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X6 New Footprint=HDR2X19
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X8 New Footprint=HDR2X19
+Change Component Comment : Designator=P2 Old Comment=Header 6 New Comment=Header 19X2
+Change Component Comment : Designator=P1 Old Comment=Header 8 New Comment=Header 19X2
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=VCC Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Room: Name=Trex

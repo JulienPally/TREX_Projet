@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Trex2.PrjPcb]
+   Generated File[PCB_Trex.GTL]
+   Generated File[PCB_Trex.GM1]
+   Generated File[PCB_Trex.RUL]
+   Generated File[PCB_Trex.EXTREP]
+   Generated File[PCB_Trex.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:28:35 On 07/06/2019

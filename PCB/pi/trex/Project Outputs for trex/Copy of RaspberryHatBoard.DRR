@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Copy of RaspberryHatBoard.PcbDoc   13/06/2019  16:43:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Copy of RaspberryHatBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             3         PTH        5.08mm (0.20inch)
+T2      1mm (39mil)                                               Round             44        PTH        149.05mm (5.87inch)
+T3      1.2mm (47mil)                                             Round             10        PTH        90.02mm (3.54inch)
+T4      2.75mm (108mil)                                           Round             4         NPTH       165.00mm (6.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+
+Total Processing Time (hh:mm:ss) : 00:00:00
